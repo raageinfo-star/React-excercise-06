@@ -1,0 +1,23 @@
+
+.container {
+  width: 350px;
+  margin: 100px auto;
+  padding: 25px;
+  text-align: center;
+  background: #f4f4f4;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #2563eb;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
